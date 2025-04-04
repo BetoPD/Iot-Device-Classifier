@@ -1,0 +1,29 @@
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook metadata
+*.ipynb-meta
+
+# Output files
+*.csv
+*.tsv
+*.log
+*.out
+*.dat
+
+# OS generated files
+.DS_Store
+Thumbs.db
